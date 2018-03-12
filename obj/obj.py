@@ -10,3 +10,4 @@ class Obj:
 		
 	def set_position(self, pos):
 		self.pos = pos
+		
